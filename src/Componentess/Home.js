@@ -9,7 +9,9 @@ export default function Home() {
  <div className='main'>
        <div className='two'>
          <center>
-         <img src='https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/prod/512px-Indian_language_Wikipedias_word_cloud_based_on_number_of_articles_1673862988713.png&w=1920&q=75'/>
+         <img src='https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/prod/512px-Indian_language_Wikipedias_word_cloud_based_on_number_of_articles_1673862988713.png&w=1920&q=75'
+         alt=''
+         />
 
           
           </center>       
