@@ -1,0 +1,16 @@
+
+.one {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f8f9fa;
+    padding: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .one {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+  

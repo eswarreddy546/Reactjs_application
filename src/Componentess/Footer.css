@@ -1,0 +1,34 @@
+
+.footer {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  
+  .footer img {
+    height: 10vh;
+    margin: 60px;
+    flex-direction: row;
+
+  }
+  
+  .contact-info {
+    margin-right: 350px;
+  }
+  
+  @media (max-width: 768px) {
+    .footer {
+      text-align: center;
+    }
+  
+    .footer img {
+      margin: 20px;
+    }
+  
+    .contact-info {
+      margin-right: 50px;
+    }
+  }
+  

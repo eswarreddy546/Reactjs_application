@@ -1,0 +1,148 @@
+.one
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.one {
+  display: flex;
+  justify-content: center;
+  gap: 30px; 
+  height: 100px;
+  background-color: rgb(227, 227, 200); 
+  margin: 10px;
+  padding: 30px;
+}
+
+.one a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding: 8px 12px; 
+}
+
+
+.main
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.main .two
+{
+  height: 60vh;
+  width: 40vw;
+  background-color: rgb(239, 239, 244);
+  margin: 30px;
+}
+.main .three
+{
+  height: 60vh;
+  width: 40vw;
+  background-color: rgb(240, 240, 245);
+  margin: 30px;
+
+}
+.main
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.main .two
+{
+  height: 60vh;
+  width: 40vw;
+  background-color: rgb(239, 239, 244);
+  margin: 30px;
+}
+.main .three
+{
+  height: 60vh;
+  width: 40vw;
+  background-color: rgb(240, 240, 245);
+  margin: 30px;
+
+}
+.cards
+{
+  width: 100vw;
+  height: 50vh;
+  background-color: aquamarine;
+}
+.card
+{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(36, 219, 219);
+  
+}
+.car 
+{
+  margin: 10px;
+}
+.one button
+{
+  color: rgb(225, 11, 11);
+  margin-left: 150px;
+  margin-top: 40px;
+
+}
+.con
+{
+  margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 120px;    
+}
+
+.int
+{
+  height: 100vh;
+  width: 100vw;
+    background-size: cover; /* or 'contain' based on your preference */
+
+  background-image: url(https://images.pexels.com/photos/301375/pexels-photo-301375.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+.float
+{
+  height: 80vh;
+  width: 30vw;
+  background-color: rgb(250, 252, 250);
+  margin-left: 50px;
+  padding-top: 40px;
+}
+.int
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.double
+{
+  height: 80vh;
+  width: 30vw;
+  background-color: lightcyan;
+  margin-left: 50px;
+  padding-top: 40px;
+  color: brown;
+
+}
+.Enter
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  background-size: cover; /* or 'contain' based on your preference */
+  color: rgb(8, 8, 8);
+  background-color: darkgray;
+}
+.cen
+{
+  height: 80vh;
+  width: 30vw;
+}
+
+
+
