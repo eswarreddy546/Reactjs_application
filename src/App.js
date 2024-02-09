@@ -9,7 +9,6 @@ import Team from './Componentess/Team'
 import Fetch from './Componentess/Fetch'
 import BasicExample from './Componentess/BasicExample'
 import Footer from './Componentess/Footer'
-import Teching from './Componentess/Teching'
 export default function () {
   return (
     <div>
