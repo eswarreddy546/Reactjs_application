@@ -6,7 +6,7 @@ export default function Login() {
   return (
     <div className='int'>
         <div className='float'>
-        <img src='https://web.classplusapp.com/static/media/loginCover.c813756b.svg' style={{height:'60vh'}}></img>
+        <img src='https://web.classplusapp.com/static/media/loginCover.c813756b.svg' alt='' style={{height:'60vh'}}></img>
 
 
 
