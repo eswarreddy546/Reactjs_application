@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaFacebook, FaGoogle, FaTwitter } from "react-icons/fa";
-import Form from 'react-bootstrap/Form';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
 import FormGroupExample from './FormGroupExample';
