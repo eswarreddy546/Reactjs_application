@@ -3,39 +3,45 @@ import Button from 'react-bootstrap/Button';
 
 let Data =[
   {
-    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
-    "tittle" : "Word Press",
-    "text" : "Some quick example text to build on the card title and make up the bulk of the card's content",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
+    title: "Word Press",
+    text: "Some quick example text to build on the card title and make up the bulk of the card's content",
+    alt: "Description of the image"
 },
 
 {
-    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
-    "tittle" : "Word Press",
-    "text" : "Some quick example text to build on the card title and make up the bulk of the card's content",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
+  title: "Word Press",
+  text: "Some quick example text to build on the card title and make up the bulk of the card's content",
+  alt: "Description of the image"
 },
 
 {
-    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
-    "tittle" : "Word Press",
-    "text" : "Some quick example text to build on the card title and make up the bulk of the card's content",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
+  title: "Word Press",
+  text: "Some quick example text to build on the card title and make up the bulk of the card's content",
+  alt: "Description of the image"
 },
 
 {
-    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
-    "tittle" : "Word Press",
-    "text" : "Some quick example text to build on the card title and make up the bulk of the card's content",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
+  title: "Word Press",
+  text: "Some quick example text to build on the card title and make up the bulk of the card's content",
+  alt: "Description of the image"
 },
 
 {
-    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
-    "tittle" : "Word Press",
-    "text" : "Some quick example text to build on the card title and make up the bulk of the card's content",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
+  title: "Word Press",
+  text: "Some quick example text to build on the card title and make up the bulk of the card's content",
+  alt: "Description of the image"
 },
 
 {
-    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
-    "tittle" : "Word Press",
-    "text" : "Some quick example text to build on the card title and make up the bulk of the card's content",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsaj3xTDSzW0noPHVfLQ2Du6NS8FkV6WHfw&usqp=CAU",
+  title: "Word Press",
+  text: "Some quick example text to build on the card title and make up the bulk of the card's content",
+  alt: "Description of the image"
 },
 
 
