@@ -12,6 +12,7 @@ phases:
       - npm run build
 
 artifacts:
-  base-directory: .  # Adjusted base-directory to the project root directory
+  base-directory: .  # Set base-directory to the project root directory
   files:
-    - 'build_practice/**/*'  # Adjusted path to include the build output directory
+    - 'build_practice/**/*'  # Include all files and subdirectories within build_practice
+    - 'dist/**/*'  # Include all files and subdirectories within dist
