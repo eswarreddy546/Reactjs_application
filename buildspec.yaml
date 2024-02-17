@@ -5,15 +5,13 @@ phases:
     runtime-versions:
       nodejs: 18
     commands:
-      # Install npm
       - npm install
 
   build:
     commands:
-      # Run build script
       - npm run build
 
 artifacts:
-  base-directory: ./build_practice
+  base-directory: ./path/to/build_practice
   files:
     - '**/*'
