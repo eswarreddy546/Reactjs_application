@@ -4,11 +4,14 @@ phases:
   install:
     runtime-versions:
       nodejs: 18
+  pre_build:
     commands:
+      - cd ReactjsScoogledeploy   # Change working directory to ReactjsScoogledeploy
+      - echo Installing source NPM dependencies...
       - npm install
-
   build:
     commands:
+      - echo Build started on 'date'
       - npm run build
 
 artifacts:
