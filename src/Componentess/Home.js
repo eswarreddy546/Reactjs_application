@@ -32,7 +32,7 @@ export default function Home() {
         <h1>CELEBRITY RECOMMENDED</h1>
         <h2>What Sourav ganguly told about us?</h2>
         
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/cX4fyBGNYok?si=8QuCVBPiqWcXRFZQstart=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YAzUwU_LpwA?si=L3OrsDfn4ujD4Y-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>       
         </center>
        </div>
 
