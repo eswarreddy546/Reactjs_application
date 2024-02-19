@@ -15,6 +15,7 @@ export default function Footer() {
 />
 
 
+
 </div>
     <center>
         <div className="contact-info" style={{marginRight:'350px'}}>
