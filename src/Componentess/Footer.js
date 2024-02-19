@@ -9,10 +9,11 @@ export default function Footer() {
 <footer className="footer" style={{backgroundColor:'rgb(242, 242, 242)',display:'flex',justifyContent:'center',alignItems:'center'}}>
 <div>
 <img
-  src='https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/prod/Scoogle%20Logo%20PNG_1673868775720.png&w=1920&q=75'
-  alt='Description of the image'
+  src="https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/prod/Scoogle%20Logo%20PNG_1673868775720.png&w=1920&q=75"
+  alt="Description of the image"
   style={{ height: '10vh', margin: '60px' }}
 />
+
 
 </div>
     <center>
