@@ -1,5 +1,7 @@
 Deployment of  ReactJS application on an EC2 instance! 
 
+follow this commands.
+
 ssh -i "C:\Users\eshwa\Downloads\reactjs2.pem" ubuntu@ec2 ip adress.ap-south-1.compute.amazonaws.com
 
 sudo apt update
